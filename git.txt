@@ -4,3 +4,4 @@ state over
 come
 git is a free software distributed under the GPL
 a new line
+git tracks changes
