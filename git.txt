@@ -2,3 +2,4 @@ git is
 a  controller
 state over
 come
+git is a free software distributed under the GPL
